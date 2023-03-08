@@ -19,4 +19,5 @@
   <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnuoynim)](https://github.com/gnuoynim/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnuoynim)](https://github.com/gnuoynim/github-readme-stats)
 </div>
