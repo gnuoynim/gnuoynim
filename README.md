@@ -15,6 +15,8 @@
 <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
 </div>
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
+  <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnuoynim)](https://github.com/gnuoynim/github-readme-stats)
+</div>
